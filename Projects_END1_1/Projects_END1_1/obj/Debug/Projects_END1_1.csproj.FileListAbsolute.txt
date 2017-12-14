@@ -1,0 +1,22 @@
+c:\users\tanda\documents\visual studio 2015\Projects\Projects_END1_1\Projects_END1_1\bin\Debug\Projects_END1_1.exe.config
+c:\users\tanda\documents\visual studio 2015\Projects\Projects_END1_1\Projects_END1_1\bin\Debug\Projects_END1_1.exe
+c:\users\tanda\documents\visual studio 2015\Projects\Projects_END1_1\Projects_END1_1\bin\Debug\Projects_END1_1.pdb
+c:\users\tanda\documents\visual studio 2015\Projects\Projects_END1_1\Projects_END1_1\obj\Debug\Projects_END1_1.csprojResolveAssemblyReference.cache
+c:\users\tanda\documents\visual studio 2015\Projects\Projects_END1_1\Projects_END1_1\obj\Debug\Projects_END1_1.Properties.Resources.resources
+c:\users\tanda\documents\visual studio 2015\Projects\Projects_END1_1\Projects_END1_1\obj\Debug\Projects_END1_1.csproj.GenerateResource.Cache
+c:\users\tanda\documents\visual studio 2015\Projects\Projects_END1_1\Projects_END1_1\obj\Debug\Projects_END1_1.exe
+c:\users\tanda\documents\visual studio 2015\Projects\Projects_END1_1\Projects_END1_1\obj\Debug\Projects_END1_1.pdb
+C:\Users\TandA\Documents\Visual Studio 2015\Projects\Projects_END1_1\Projects_END1_1\obj\Debug\Projects_END1_1.Form2.resources
+C:\Users\TandA\Documents\Visual Studio 2015\Projects\Projects_END1_1\Projects_END1_1\obj\Debug\Projects_END1_1.ADMIN.resources
+C:\Users\TandA\Documents\Visual Studio 2015\Projects\Projects_END1_1\Projects_END1_1\obj\Debug\Projects_END1_1.MANUFORM.resources
+C:\Users\TandA\Documents\GitHub\ProjectsEND1\Projects_END1_1\Projects_END1_1\bin\Debug\Projects_END1_1.exe.config
+C:\Users\TandA\Documents\GitHub\ProjectsEND1\Projects_END1_1\Projects_END1_1\obj\Debug\Projects_END1_1.exe
+C:\Users\TandA\Documents\GitHub\ProjectsEND1\Projects_END1_1\Projects_END1_1\obj\Debug\Projects_END1_1.pdb
+C:\Users\TandA\Documents\GitHub\ProjectsEND1\Projects_END1_1\Projects_END1_1\bin\Debug\Projects_END1_1.exe
+C:\Users\TandA\Documents\GitHub\ProjectsEND1\Projects_END1_1\Projects_END1_1\bin\Debug\Projects_END1_1.pdb
+C:\Users\TandA\Documents\GitHub\ProjectsEND1\Projects_END1_1\Projects_END1_1\obj\Debug\Projects_END1_1.csprojResolveAssemblyReference.cache
+C:\Users\TandA\Documents\GitHub\ProjectsEND1\Projects_END1_1\Projects_END1_1\obj\Debug\Projects_END1_1.ADMIN.resources
+C:\Users\TandA\Documents\GitHub\ProjectsEND1\Projects_END1_1\Projects_END1_1\obj\Debug\Projects_END1_1.MANUFORM.resources
+C:\Users\TandA\Documents\GitHub\ProjectsEND1\Projects_END1_1\Projects_END1_1\obj\Debug\Projects_END1_1.Form2.resources
+C:\Users\TandA\Documents\GitHub\ProjectsEND1\Projects_END1_1\Projects_END1_1\obj\Debug\Projects_END1_1.Properties.Resources.resources
+C:\Users\TandA\Documents\GitHub\ProjectsEND1\Projects_END1_1\Projects_END1_1\obj\Debug\Projects_END1_1.csproj.GenerateResource.Cache
